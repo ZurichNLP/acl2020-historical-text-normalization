@@ -18,9 +18,7 @@ setup(name='contextual_transduction',
             "scikit-learn==0.20.2",
             "scipy==1.2.0",
             "kenlm @ git+https://github.com/kpu/kenlm/#egg=kenlm",
-      ],
-      dependency_links=[
-            "nn_lm @ git+https://github.com/peter-makarov/nn_lms/#egg=nn_lm",
+            "nn_lm @ git+https://github.com/peter-makarov/nn_lms@master",
       ],
       package_data={
             "": ["data/med.txt", "data/train*.apra", "data/words.txt"],
