@@ -1,0 +1,12 @@
+e	et
+e	a
+e	Sed
+a	et
+a	a
+a	Sed
+b	et
+b	a
+b	Sed
+d	et
+d	a
+d	Sed

@@ -1,0 +1,1197 @@
+\data\
+ngram 1=237
+ngram 2=477
+ngram 3=471
+
+\1-grams:
+-2.6896684	<unk>	0
+0	<s>	-0.17379272
+-1.0639576	</s>	0
+-2.5195935	Lorem	-0.028028725
+-2.3424401	ipsum	-0.028028725
+-2.5195935	dolor	-0.028028725
+-1.8883673	sit	-0.19592553
+-2.5195935	amet,	-0.028028725
+-2.5195935	consectetur	-0.028028725
+-2.5195935	adipiscing	-0.028028725
+-2.5195935	elit.	-0.028028725
+-2.4543252	Sed	-0.028028725
+-2.4543252	scelerisque	-0.028028725
+-2.5195935	nisi	-0.028028725
+-2.4543252	ac	-0.80618
+-2.4543252	enim	-0.028028725
+-2.4543252	viverra	-0.028028725
+-2.5195935	dictum.	-0.028028725
+-2.5195935	Praesent	-0.028028725
+-2.5195935	volutpat	-0.028028725
+-2.4543252	pretium	-0.028028725
+-2.3424401	tellus	-0.028028725
+-2.0585809	eget	-0.028028725
+-2.5195935	finibus.	-0.028028725
+-2.5195935	Vestibulum	-0.028028725
+-2.5195935	imperdiet	-0.028028725
+-2.5195935	magna	-0.028028725
+-2.5195935	dui,	-0.028028725
+-1.7162392	et	-0.028028725
+-2.4543252	bibendum	-0.028028725
+-2.4543252	massa	-0.028028725
+-2.4543252	elementum	-0.028028725
+-2.5195935	in.	-0.028028725
+-2.5195935	Proin	-0.028028725
+-2.4543252	vehicula	-0.028028725
+-1.9651878	id	-0.028028725
+-2.4543252	aliquet.	-0.80618
+-1.8883673	at	-0.14612803
+-2.17772	orci	-0.028028725
+-2.17772	vestibulum	-0.028028725
+-2.3424401	congue	-0.028028725
+-1.7663976	ut	-0.028028725
+-2.5195935	arcu.	-0.028028725
+-2.4543252	Maecenas	-0.028028725
+-2.5195935	hendrerit	-0.028028725
+-2.3424401	sem	-0.028028725
+-1.9651878	in	-0.028028725
+-2.5195935	interdum	-0.028028725
+-2.5195935	varius.	-0.028028725
+-2.17772	augue	-0.028028725
+-2.5195935	leo,	-0.028028725
+-2.17772	sodales	-0.028028725
+-2.5195935	dui	-0.028028725
+-2.5195935	sed,	-0.028028725
+-2.3424401	condimentum	-0.028028725
+-2.4543252	nibh.	-0.028028725
+-2.3424401	vitae	-0.028028725
+-2.4543252	convallis	-0.028028725
+-2.5195935	leo.	-0.028028725
+-2.5195935	tempus	-0.028028725
+-2.5195935	accumsan.	-0.028028725
+-2.5195935	Nam	-0.028028725
+-2.3424401	luctus	-0.028028725
+-2.4543252	consequat	-0.028028725
+-2.5195935	mauris,	-0.028028725
+-1.7162392	a	-0.028028725
+-2.17772	pulvinar	-0.028028725
+-2.5195935	nulla	-0.028028725
+-2.5195935	porttitor	-0.028028725
+-2.5195935	amet.	-0.028028725
+-2.4543252	Vivamus	-0.028028725
+-2.17772	rhoncus	-0.028028725
+-2.4543252	sed	-0.028028725
+-2.4543252	arcu	-0.028028725
+-2.4543252	quis	-0.028028725
+-2.5195935	semper.	-0.028028725
+-2.5195935	Etiam	-0.028028725
+-2.3424401	elit	-0.028028725
+-2.5195935	diam.	-0.028028725
+-2.4543252	Donec	-0.028028725
+-2.3424401	eleifend	-0.028028725
+-2.17772	risus	-0.028028725
+-2.3424401	est	-0.028028725
+-2.4543252	faucibus	-0.028028725
+-2.5195935	imperdiet.	-0.028028725
+-2.5195935	ultrices,	-0.028028725
+-2.3424401	neque	-0.028028725
+-2.3424401	ac,	-0.028028725
+-2.4543252	egestas	-0.028028725
+-2.4543252	lorem.	-0.80618
+-2.5195935	rutrum	-0.028028725
+-2.5195935	laoreet	-0.028028725
+-2.5195935	venenatis.	-0.028028725
+-2.5195935	Aenean	-0.028028725
+-2.5195935	arcu,	-0.028028725
+-2.17772	vel	-0.028028725
+-2.4543252	lacus	-0.028028725
+-2.3424401	ut,	-0.028028725
+-2.3424401	lobortis	-0.028028725
+-2.4543252	fringilla	-0.028028725
+-2.3424401	nunc.	-0.06494081
+-2.3424401	euismod	-0.028028725
+-2.4543252	libero	-0.028028725
+-2.5195935	lacinia	-0.028028725
+-2.4543252	auctor	-0.028028725
+-2.4543252	tincidunt.	-0.80618
+-2.5195935	Pellentesque	-0.028028725
+-2.4543252	maximus	-0.028028725
+-2.5195935	facilisis	-0.028028725
+-2.5195935	pulvinar.	-0.028028725
+-2.5195935	Cras	-0.028028725
+-2.3424401	sollicitudin	-0.028028725
+-2.4543252	ex	-0.028028725
+-2.5195935	malesuada.	-0.028028725
+-2.5195935	ligula	-0.028028725
+-2.5195935	convallis.	-0.028028725
+-2.5195935	Integer	-0.028028725
+-2.5195935	mollis	-0.028028725
+-2.3424401	turpis	-0.028028725
+-2.5195935	tincidunt,	-0.028028725
+-2.3424401	eu	-0.028028725
+-2.3424401	metus	-0.028028725
+-2.5195935	ornare.	-0.028028725
+-2.5195935	maximus,	-0.028028725
+-2.4543252	nisl	-0.028028725
+-2.5195935	porttitor,	-0.028028725
+-2.17772	aliquam	-0.028028725
+-2.5195935	ex,	-0.028028725
+-2.17772	felis	-0.028028725
+-2.5195935	erat.	-0.028028725
+-2.5195935	Ut	-0.028028725
+-2.5195935	accumsan	-0.028028725
+-2.5195935	odio,	-0.028028725
+-2.4543252	ultricies	-0.028028725
+-2.4543252	cursus	-0.028028725
+-2.5195935	orci.	-0.028028725
+-2.5195935	Duis	-0.028028725
+-2.4543252	feugiat	-0.028028725
+-2.5195935	ante	-0.028028725
+-2.5195935	primis	-0.028028725
+-2.3424401	ultrices	-0.028028725
+-2.4543252	posuere	-0.028028725
+-2.5195935	cubilia	-0.028028725
+-2.5195935	curae;	-0.028028725
+-2.4543252	Suspendisse	-0.028028725
+-2.5195935	dictum	-0.028028725
+-2.4543252	mi	-0.028028725
+-2.3424401	pharetra	-0.028028725
+-2.5195935	efficitur.	-0.028028725
+-2.3424401	non	-0.028028725
+-2.5195935	iaculis	-0.028028725
+-2.4543252	lacus.	-0.80618
+-2.5195935	amet	-0.028028725
+-2.5195935	urna	-0.028028725
+-2.5195935	gravida.	-0.028028725
+-2.5195935	Mauris	-0.028028725
+-2.5195935	commodo,	-0.028028725
+-2.5195935	et,	-0.028028725
+-2.4543252	ex.	-0.80618
+-2.5195935	Phasellus	-0.028028725
+-2.5195935	facilisis,	-0.028028725
+-2.17772	finibus	-0.028028725
+-2.5195935	hendrerit,	-0.028028725
+-2.4543252	tortor	-0.028028725
+-2.4543252	nibh	-0.028028725
+-2.4543252	venenatis	-0.028028725
+-2.5195935	urna,	-0.028028725
+-2.5195935	pellentesque	-0.028028725
+-2.5195935	leo	-0.028028725
+-2.4543252	purus.	-0.80618
+-2.5195935	Aliquam	-0.028028725
+-2.4543252	ornare	-0.028028725
+-2.4543252	tristique	-0.028028725
+-2.5195935	lectus,	-0.028028725
+-2.5195935	fringilla.	-0.028028725
+-2.5195935	sapien,	-0.028028725
+-2.4543252	sagittis	-0.028028725
+-2.3424401	lorem	-0.028028725
+-2.5195935	erat	-0.028028725
+-2.5195935	pellentesque,	-0.028028725
+-2.3424401	ullamcorper	-0.028028725
+-2.5195935	pretium,	-0.028028725
+-2.4543252	tincidunt	-0.028028725
+-2.4543252	porta	-0.028028725
+-2.5195935	eleifend.	-0.028028725
+-2.5195935	accumsan,	-0.028028725
+-2.5195935	sodales,	-0.028028725
+-2.17772	eros	-0.028028725
+-2.17772	malesuada	-0.028028725
+-2.5195935	neque,	-0.028028725
+-2.5195935	semper	-0.028028725
+-2.4543252	diam	-0.028028725
+-2.4543252	dapibus	-0.028028725
+-2.4543252	placerat	-0.028028725
+-2.5195935	Nullam	-0.028028725
+-2.4543252	nunc	-0.028028725
+-2.5195935	posuere.	-0.028028725
+-2.5195935	Fusce	-0.028028725
+-2.5195935	justo	-0.028028725
+-2.17772	sapien	-0.028028725
+-2.5195935	fermentum.	-0.028028725
+-2.5195935	erat,	-0.028028725
+-2.5195935	suscipit	-0.028028725
+-2.4543252	metus.	-0.80618
+-2.5195935	lectus	-0.028028725
+-2.5195935	eros,	-0.028028725
+-2.5195935	neque.	-0.028028725
+-2.4543252	molestie	-0.028028725
+-2.5195935	massa.	-0.028028725
+-2.5195935	Nunc	-0.028028725
+-2.5195935	sapien.	-0.028028725
+-2.5195935	quam,	-0.028028725
+-2.4543252	est.	-0.80618
+-2.5195935	dignissim	-0.028028725
+-2.5195935	mi.	-0.028028725
+-2.5195935	tellus,	-0.028028725
+-2.4543252	id.	-0.80618
+-2.5195935	massa,	-0.028028725
+-2.5195935	vel,	-0.028028725
+-2.5195935	sem.	-0.028028725
+-2.5195935	commodo	-0.028028725
+-2.5195935	porta.	-0.028028725
+-2.5195935	auctor.	-0.028028725
+-2.4543252	nec	-0.028028725
+-2.5195935	pharetra.	-0.028028725
+-2.5195935	In	-0.028028725
+-2.5195935	velit	-0.028028725
+-2.5195935	Quisque	-0.028028725
+-2.5195935	molestie,	-0.028028725
+-2.5195935	risus.	-0.028028725
+-2.5195935	diam,	-0.028028725
+-2.5195935	dui.	-0.028028725
+-2.5195935	odio	-0.028028725
+-2.5195935	sollicitudin,	-0.028028725
+-2.5195935	egestas.	-0.028028725
+-2.5195935	elit,	-0.028028725
+-2.5195935	mattis	-0.028028725
+
+\2-grams:
+-0.84341407	elit. </s>	0
+-0.84341407	finibus. </s>	0
+-0.06689992	aliquet. </s>	0
+-0.84341407	varius. </s>	0
+-0.9501537	nibh. </s>	0
+-0.84341407	leo. </s>	0
+-0.84341407	accumsan. </s>	0
+-0.84341407	semper. </s>	0
+-0.84341407	imperdiet. </s>	0
+-0.06689992	lorem. </s>	0
+-0.84341407	venenatis. </s>	0
+-0.6711961	nunc. </s>	0
+-0.06689992	tincidunt. </s>	0
+-0.84341407	pulvinar. </s>	0
+-0.84341407	malesuada. </s>	0
+-0.84341407	convallis. </s>	0
+-0.84341407	ornare. </s>	0
+-0.84341407	erat. </s>	0
+-0.84341407	orci. </s>	0
+-0.84341407	efficitur. </s>	0
+-0.06689992	lacus. </s>	0
+-0.84341407	gravida. </s>	0
+-0.06689992	ex. </s>	0
+-0.06689992	purus. </s>	0
+-0.84341407	fringilla. </s>	0
+-0.84341407	eleifend. </s>	0
+-0.84341407	posuere. </s>	0
+-0.84341407	fermentum. </s>	0
+-0.06689992	metus. </s>	0
+-0.84341407	neque. </s>	0
+-0.84341407	massa. </s>	0
+-0.84341407	sapien. </s>	0
+-0.06689992	est. </s>	0
+-0.84341407	mi. </s>	0
+-0.06689992	id. </s>	0
+-0.84341407	sem. </s>	0
+-0.84341407	porta. </s>	0
+-0.84341407	auctor. </s>	0
+-0.84341407	pharetra. </s>	0
+-0.84341407	risus. </s>	0
+-0.84341407	dui. </s>	0
+-0.84341407	egestas. </s>	0
+-2.494155	<s> Lorem	-0.30103
+-1.175476	Lorem ipsum	-0.30103
+-1.600421	elit ipsum	-0.30103
+-1.175476	ante ipsum	-0.30103
+-1.6258533	ipsum dolor	-0.30103
+-1.1271284	dolor sit	-0.30103
+-1.556771	augue sit	-0.30103
+-1.1271284	porttitor sit	-0.30103
+-1.556771	risus sit	-0.30103
+-1.4820634	neque sit	-0.30103
+-1.3627822	mi sit	-0.30103
+-1.556771	sapien sit	-0.30103
+-1.9644184	sit amet,	-0.30103
+-1.1848617	amet, consectetur	-0.30103
+-1.1848617	consectetur adipiscing	-0.30103
+-1.1848617	adipiscing elit.	-0.30103
+-0.9806524	<s> Sed	-0.30103
+-1.4616348	nibh. Sed	-0.30103
+-1.9897909	Sed scelerisque	-0.30103
+-1.4616348	Pellentesque scelerisque	-0.30103
+-1.4674513	scelerisque nisi	-0.30103
+-1.1818177	nisi ac	-0.30103
+-1.4616348	vehicula ac	-0.30103
+-0.07350378	ac enim	-0.30103
+-1.941656	at enim	-0.30103
+-1.6175013	enim viverra	-0.30103
+-1.7231153	vestibulum viverra	-0.30103
+-1.4674513	viverra dictum.	-0.30103
+-1.1848617	dictum. Praesent	-0.30103
+-1.1848617	Praesent volutpat	-0.30103
+-1.1818177	volutpat pretium	-0.30103
+-1.4616348	Suspendisse pretium	-0.30103
+-1.4496347	pretium tellus	-0.30103
+-1.978348	et tellus	-0.30103
+-1.175476	lacinia tellus	-0.30103
+-1.5372226	tellus eget	-0.30103
+-1.5372226	congue eget	-0.30103
+-1.6231128	felis eget	-0.30103
+-1.1506296	Nunc eget	-0.30103
+-1.1506296	diam, eget	-0.30103
+-1.8143486	eget finibus.	-0.30103
+-2.0049129	<s> Vestibulum	-0.30103
+-1.6258533	Vestibulum imperdiet	-0.30103
+-1.1848617	imperdiet magna	-0.30103
+-1.1848617	magna dui,	-0.30103
+-1.6026945	Sed et	-0.30103
+-1.0941013	dui, et	-0.30103
+-1.4730916	augue et	-0.30103
+-1.4105823	luctus et	-0.30103
+-1.4105823	turpis et	-0.30103
+-1.3074257	mi et	-0.30103
+-1.3074257	tristique et	-0.30103
+-1.0941013	lectus, et	-0.30103
+-1.3074257	diam et	-0.30103
+-1.0941013	sollicitudin, et	-0.30103
+-2.0202963	et bibendum	-0.30103
+-1.1818177	mattis bibendum	-0.30103
+-1.4616348	bibendum massa	-0.30103
+-2.0202963	a massa	-0.30103
+-1.4616348	massa elementum	-0.30103
+-1.1818177	accumsan elementum	-0.30103
+-1.4674513	elementum in.	-0.30103
+-1.1848617	in. Proin	-0.30103
+-1.1818177	Proin vehicula	-0.30103
+-1.7231153	vel vehicula	-0.30103
+-1.5087678	enim id	-0.30103
+-1.5886763	sodales id	-0.30103
+-1.5087678	Aenean id	-0.30103
+-1.3829218	nisl id	-0.30103
+-1.13872	urna, id	-0.30103
+-1.3829218	sagittis id	-0.30103
+-1.86296	id aliquet.	-0.30103
+-1.6175013	pharetra aliquet.	-0.30103
+-1.4820634	enim at	-0.30103
+-1.4820634	Vestibulum at	-0.30103
+-1.1271284	ex, at	-0.30103
+-1.556771	felis at	-0.30103
+-1.3627822	sagittis at	-0.30103
+-1.1271284	quam, at	-0.30103
+-1.1271284	Quisque at	-0.30103
+-1.8641473	at orci	-0.30103
+-1.4262397	faucibus orci	-0.30103
+-1.5676732	eu orci	-0.30103
+-1.6605167	aliquam orci	-0.30103
+-1.8803797	Sed vestibulum	-0.30103
+-1.6605167	orci vestibulum	-0.30103
+-1.1628752	sed, vestibulum	-0.30103
+-1.6605167	sapien vestibulum	-0.30103
+-1.9505634	Sed congue	-0.30103
+-1.7014483	vestibulum congue	-0.30103
+-1.175476	urna congue	-0.30103
+-1.5443385	eget ut	-0.30103
+-1.6383082	ut ut	-0.30103
+-1.3251054	Maecenas ut	-0.30103
+-1.3251054	Etiam ut	-0.30103
+-1.4331269	ultrices ut	-0.30103
+-1.4992334	lorem ut	-0.30103
+-1.3251054	placerat ut	-0.30103
+-1.4331269	nunc ut	-0.30103
+-1.1048336	justo ut	-0.30103
+-2.0097365	ut arcu.	-0.30103
+-2.4517758	<s> Maecenas	-0.30103
+-1.1818177	arcu. Maecenas	-0.30103
+-1.4674513	Maecenas hendrerit	-0.30103
+-1.175476	hendrerit sem	-0.30103
+-1.4496347	convallis sem	-0.30103
+-1.175476	semper sem	-0.30103
+-1.3829218	bibendum in	-0.30103
+-1.5087678	sem in	-0.30103
+-1.13872	primis in	-0.30103
+-1.13872	neque, in	-0.30103
+-1.3829218	diam in	-0.30103
+-1.5087678	Fusce in	-0.30103
+-1.877767	in interdum	-0.30103
+-1.1848617	interdum varius.	-0.30103
+-1.8803797	Sed augue	-0.30103
+-1.5676732	congue augue	-0.30103
+-1.6605167	pulvinar augue	-0.30103
+-1.5676732	eu augue	-0.30103
+-1.7337952	augue leo,	-0.30103
+-1.8641473	at sodales	-0.30103
+-1.1628752	leo, sodales	-0.30103
+-1.5676732	Cras sodales	-0.30103
+-1.4262397	placerat sodales	-0.30103
+-1.877767	id dui	-0.30103
+-1.1848617	dui sed,	-0.30103
+-1.8333372	id condimentum	-0.30103
+-1.7014483	vestibulum condimentum	-0.30103
+-1.175476	eros, condimentum	-0.30103
+-1.6175013	condimentum nibh.	-0.30103
+-1.7231153	malesuada nibh.	-0.30103
+-1.9505634	Sed vitae	-0.30103
+-1.7014483	risus vitae	-0.30103
+-1.600421	turpis vitae	-0.30103
+-1.6175013	vitae convallis	-0.30103
+-2.0202963	a convallis	-0.30103
+-1.4674513	convallis leo.	-0.30103
+-2.0417297	et tempus	-0.30103
+-1.1848617	tempus accumsan.	-0.30103
+-1.4702425	<s> Nam	-0.30103
+-1.7014483	orci luctus	-0.30103
+-1.4496347	Nam luctus	-0.30103
+-1.175476	ultrices, luctus	-0.30103
+-1.6175013	luctus consequat	-0.30103
+-1.1818177	vel, consequat	-0.30103
+-1.4674513	consequat mauris,	-0.30103
+-1.5461358	id a	-0.30103
+-1.6026945	ut a	-0.30103
+-1.0941013	mauris, a	-0.30103
+-1.3074257	Etiam a	-0.30103
+-1.4730916	Donec a	-0.30103
+-1.3074257	lacus a	-0.30103
+-1.4105823	Duis a	-0.30103
+-1.4105823	Fusce a	-0.30103
+-1.0941013	velit a	-0.30103
+-1.0941013	elit, a	-0.30103
+-1.9039036	et pulvinar	-0.30103
+-1.9039036	a pulvinar	-0.30103
+-1.5676732	ac, pulvinar	-0.30103
+-1.1628752	commodo, pulvinar	-0.30103
+-1.7337952	pulvinar nulla	-0.30103
+-1.1848617	nulla porttitor	-0.30103
+-1.9644184	sit amet.	-0.30103
+-2.4517758	<s> Vivamus	-0.30103
+-1.1818177	amet. Vivamus	-0.30103
+-1.9039036	et rhoncus	-0.30103
+-1.8803797	ut rhoncus	-0.30103
+-1.4262397	Vivamus rhoncus	-0.30103
+-1.5676732	eu rhoncus	-0.30103
+-1.7231153	rhoncus sed	-0.30103
+-1.1818177	leo sed	-0.30103
+-2.0202963	et arcu	-0.30103
+-1.4616348	sed arcu	-0.30103
+-1.4616348	arcu quis	-0.30103
+-1.7231153	lorem quis	-0.30103
+-1.4674513	quis semper.	-0.30103
+-1.4702425	<s> Etiam	-0.30103
+-1.4496347	vehicula elit	-0.30103
+-1.978348	a elit	-0.30103
+-1.175476	porttitor, elit	-0.30103
+-1.6258533	elit diam.	-0.30103
+-1.9907172	<s> Donec	-0.30103
+-1.1818177	diam. Donec	-0.30103
+-1.4496347	quis eleifend	-0.30103
+-1.600421	elit eleifend	-0.30103
+-1.7014483	Donec eleifend	-0.30103
+-1.6605167	sodales risus	-0.30103
+-1.5676732	eleifend risus	-0.30103
+-1.5676732	Aenean risus	-0.30103
+-1.4262397	venenatis risus	-0.30103
+-1.600421	vitae est	-0.30103
+-1.4496347	Ut est	-0.30103
+-1.600421	ullamcorper est	-0.30103
+-1.86296	in faucibus	-0.30103
+-1.6175013	est faucibus	-0.30103
+-1.4674513	faucibus imperdiet.	-0.30103
+-1.4674513	massa ultrices,	-0.30103
+-1.9505634	ut neque	-0.30103
+-1.600421	luctus neque	-0.30103
+-1.7014483	finibus neque	-0.30103
+-1.600421	neque ac,	-0.30103
+-1.600421	metus ac,	-0.30103
+-1.7014483	lorem ac,	-0.30103
+-1.6175013	ac, egestas	-0.30103
+-1.1818177	arcu, egestas	-0.30103
+-2.0202963	et lorem.	-0.30103
+-1.4616348	egestas lorem.	-0.30103
+-2.0097365	Sed rutrum	-0.30103
+-1.1848617	rutrum laoreet	-0.30103
+-1.1848617	laoreet venenatis.	-0.30103
+-2.0049129	<s> Aenean	-0.30103
+-1.7337952	risus arcu,	-0.30103
+-1.6605167	Donec vel	-0.30103
+-1.4262397	egestas vel	-0.30103
+-1.1628752	ligula vel	-0.30103
+-1.1628752	tellus, vel	-0.30103
+-1.7231153	vel lacus	-0.30103
+-1.1818177	facilisis lacus	-0.30103
+-1.600421	tellus ut,	-0.30103
+-1.4496347	lacus ut,	-0.30103
+-1.7014483	sapien ut,	-0.30103
+-1.7756951	eget lobortis	-0.30103
+-1.8333372	id lobortis	-0.30103
+-1.600421	ut, lobortis	-0.30103
+-1.6175013	lobortis fringilla	-0.30103
+-1.4616348	feugiat fringilla	-0.30103
+-1.978348	a nunc.	-0.30103
+-1.4496347	fringilla nunc.	-0.30103
+-1.4496347	tincidunt nunc.	-0.30103
+-1.7014483	pulvinar euismod	-0.30103
+-1.4496347	Vivamus euismod	-0.30103
+-1.4496347	ex euismod	-0.30103
+-1.6175013	euismod libero	-0.30103
+-1.7231153	Phasellus libero	-0.30103
+-1.4674513	libero lacinia	-0.30103
+-1.4616348	pretium auctor	-0.30103
+-1.6175013	tellus auctor	-0.30103
+-1.941656	at tincidunt.	-0.30103
+-1.4616348	auctor tincidunt.	-0.30103
+-1.4702425	<s> Pellentesque	-0.30103
+-1.7231153	vel maximus	-0.30103
+-1.4616348	Pellentesque maximus	-0.30103
+-1.4674513	maximus facilisis	-0.30103
+-2.0417297	a pulvinar.	-0.30103
+-2.0049129	<s> Cras	-0.30103
+-1.7014483	sodales sollicitudin	-0.30103
+-1.7014483	vel sollicitudin	-0.30103
+-1.600421	Integer sollicitudin	-0.30103
+-1.6175013	sollicitudin ex	-0.30103
+-1.7231153	eros ex	-0.30103
+-1.6258533	euismod malesuada.	-0.30103
+-1.4674513	scelerisque ligula	-0.30103
+-1.4674513	maximus convallis.	-0.30103
+-2.0049129	<s> Integer	-0.30103
+-1.6258533	Integer mollis	-0.30103
+-1.7014483	rhoncus turpis	-0.30103
+-1.175476	mollis turpis	-0.30103
+-1.175476	facilisis, turpis	-0.30103
+-1.4674513	arcu tincidunt,	-0.30103
+-1.4496347	Nam eu	-0.30103
+-1.175476	tincidunt, eu	-0.30103
+-1.600421	Aliquam eu	-0.30103
+-1.7014483	rhoncus metus	-0.30103
+-1.7014483	finibus metus	-0.30103
+-1.175476	pellentesque metus	-0.30103
+-1.6258533	metus ornare.	-0.30103
+-1.7337952	Donec maximus,	-0.30103
+-1.1818177	maximus, nisl	-0.30103
+-1.7231153	amet nisl	-0.30103
+-1.6258533	condimentum porttitor,	-0.30103
+-1.5676732	ipsum aliquam	-0.30103
+-1.8803797	ut aliquam	-0.30103
+-1.5676732	ac, aliquam	-0.30103
+-1.1628752	Mauris aliquam	-0.30103
+-1.7337952	aliquam ex,	-0.30103
+-1.8803797	ut felis	-0.30103
+-1.9039036	a felis	-0.30103
+-1.6605167	risus felis	-0.30103
+-1.4262397	fringilla felis	-0.30103
+-1.8143486	eget erat.	-0.30103
+-1.4702425	<s> Ut	-0.30103
+-1.4674513	Ut accumsan	-0.30103
+-1.4674513	elementum odio,	-0.30103
+-1.941656	at ultricies	-0.30103
+-1.1818177	odio, ultricies	-0.30103
+-1.4616348	ultricies cursus	-0.30103
+-1.4616348	nibh cursus	-0.30103
+-1.4674513	cursus orci.	-0.30103
+-2.0049129	<s> Duis	-0.30103
+-1.801524	eget feugiat	-0.30103
+-1.6175013	Duis feugiat	-0.30103
+-1.6258533	Vestibulum ante	-0.30103
+-1.6258533	ipsum primis	-0.30103
+-1.978348	et ultrices	-0.30103
+-1.600421	nunc ultrices	-0.30103
+-1.4496347	molestie ultrices	-0.30103
+-1.6175013	ultrices posuere	-0.30103
+-1.1818177	et, posuere	-0.30103
+-1.4674513	posuere cubilia	-0.30103
+-1.1848617	cubilia curae;	-0.30103
+-2.4517758	<s> Suspendisse	-0.30103
+-1.1818177	curae; Suspendisse	-0.30103
+-1.4674513	Suspendisse dictum	-0.30103
+-1.6175013	sollicitudin mi	-0.30103
+-1.1818177	dictum mi	-0.30103
+-1.978348	et pharetra	-0.30103
+-1.600421	Integer pharetra	-0.30103
+-1.4496347	molestie pharetra	-0.30103
+-1.6258533	pharetra efficitur.	-0.30103
+-1.600421	condimentum non	-0.30103
+-1.600421	Cras non	-0.30103
+-1.7014483	felis non	-0.30103
+-1.6258533	non iaculis	-0.30103
+-1.6175013	euismod lacus.	-0.30103
+-1.1818177	iaculis lacus.	-0.30103
+-0.45946613	sit amet	-0.30103
+-1.7337952	amet urna	-0.30103
+-1.6258533	congue gravida.	-0.30103
+-2.494155	<s> Mauris	-0.30103
+-1.7337952	orci commodo,	-0.30103
+-1.7337952	augue et,	-0.30103
+-2.0202963	a ex.	-0.30103
+-1.4616348	posuere ex.	-0.30103
+-1.5412799	<s> Phasellus	-0.30103
+-1.7337952	Phasellus facilisis,	-0.30103
+-1.5676732	vitae finibus	-0.30103
+-1.5676732	ut, finibus	-0.30103
+-1.6605167	Phasellus finibus	-0.30103
+-1.1628752	molestie, finibus	-0.30103
+-1.7337952	finibus hendrerit,	-0.30103
+-1.6175013	non tortor	-0.30103
+-1.1818177	hendrerit, tortor	-0.30103
+-1.7231153	pulvinar nibh	-0.30103
+-1.4616348	tortor nibh	-0.30103
+-1.9897909	Sed venenatis	-0.30103
+-1.4616348	nibh venenatis	-0.30103
+-1.4674513	venenatis urna,	-0.30103
+-1.877767	id pellentesque	-0.30103
+-1.6258533	metus leo	-0.30103
+-1.9897909	ut purus.	-0.30103
+-1.4616348	sed purus.	-0.30103
+-2.0049129	<s> Aliquam	-0.30103
+-1.6175013	Cras ornare	-0.30103
+-1.6175013	Aliquam ornare	-0.30103
+-1.4616348	ornare tristique	-0.30103
+-1.1818177	erat, tristique	-0.30103
+-1.4674513	tristique lectus,	-0.30103
+-1.4674513	cursus fringilla.	-0.30103
+-1.4674513	libero sapien,	-0.30103
+-1.6175013	ultrices sagittis	-0.30103
+-1.1818177	sapien, sagittis	-0.30103
+-0.61204445	at lorem	-0.30103
+-1.175476	accumsan, lorem	-0.30103
+-1.4496347	nec lorem	-0.30103
+-2.0417297	et erat	-0.30103
+-1.1848617	erat pellentesque,	-0.30103
+-1.600421	ut, ullamcorper	-0.30103
+-1.175476	pellentesque, ullamcorper	-0.30103
+-1.175476	In ullamcorper	-0.30103
+-1.6258533	est pretium,	-0.30103
+-1.7231153	felis tincidunt	-0.30103
+-1.1818177	pretium, tincidunt	-0.30103
+-1.4616348	nisl porta	-0.30103
+-1.1818177	Nullam porta	-0.30103
+-1.4674513	porta eleifend.	-0.30103
+-1.7337952	Phasellus accumsan,	-0.30103
+-1.6258533	eleifend sodales,	-0.30103
+-1.8803797	Sed eros	-0.30103
+-1.9039036	a eros	-0.30103
+-1.5676732	pharetra eros	-0.30103
+-1.1628752	sodales, eros	-0.30103
+-1.4262397	consequat malesuada	-0.30103
+-1.4262397	ex malesuada	-0.30103
+-1.5676732	ullamcorper malesuada	-0.30103
+-1.1628752	commodo malesuada	-0.30103
+-1.7337952	malesuada neque,	-0.30103
+-1.877767	in semper	-0.30103
+-1.6175013	sem diam	-0.30103
+-1.4616348	auctor diam	-0.30103
+-1.6175013	sem dapibus	-0.30103
+-1.4616348	tortor dapibus	-0.30103
+-1.4616348	dapibus placerat	-0.30103
+-1.1818177	massa, placerat	-0.30103
+-2.494155	<s> Nullam	-0.30103
+-1.7231153	amet nunc	-0.30103
+-1.4616348	porta nunc	-0.30103
+-1.7337952	rhoncus posuere.	-0.30103
+-2.0049129	<s> Fusce	-0.30103
+-2.0417297	a justo	-0.30103
+-1.8803797	ut sapien	-0.30103
+-1.7787614	in sapien	-0.30103
+-1.6605167	sodales sapien	-0.30103
+-1.5676732	non sapien	-0.30103
+-1.7337952	vestibulum fermentum.	-0.30103
+-1.6258533	est erat,	-0.30103
+-1.7337952	finibus suscipit	-0.30103
+-1.6175013	neque metus.	-0.30103
+-1.1818177	suscipit metus.	-0.30103
+-1.6258533	Duis lectus	-0.30103
+-1.1848617	lectus eros,	-0.30103
+-1.7337952	aliquam neque.	-0.30103
+-1.6175013	Aenean molestie	-0.30103
+-1.7231153	eros molestie	-0.30103
+-1.7337952	orci massa.	-0.30103
+-2.494155	<s> Nunc	-0.30103
+-1.4674513	feugiat sapien.	-0.30103
+-1.6258533	lobortis quam,	-0.30103
+-1.4616348	ultricies est.	-0.30103
+-1.4616348	nec est.	-0.30103
+-1.4674513	ornare dignissim	-0.30103
+-1.1848617	dignissim mi.	-0.30103
+-1.7337952	eros tellus,	-0.30103
+-1.6175013	eleifend id.	-0.30103
+-1.4616348	dapibus id.	-0.30103
+-1.7337952	eros massa,	-0.30103
+-1.7337952	sapien vel,	-0.30103
+-1.7337952	malesuada sem.	-0.30103
+-1.6258533	Aliquam commodo	-0.30103
+-1.7337952	malesuada porta.	-0.30103
+-1.877767	in auctor.	-0.30103
+-1.86296	in nec	-0.30103
+-1.6175013	Fusce nec	-0.30103
+-1.4674513	tincidunt pharetra.	-0.30103
+-2.494155	<s> In	-0.30103
+-1.6258533	ullamcorper velit	-0.30103
+-2.494155	<s> Quisque	-0.30103
+-1.7337952	lorem molestie,	-0.30103
+-1.7337952	aliquam risus.	-0.30103
+-1.6258533	sollicitudin diam,	-0.30103
+-1.6258533	lobortis dui.	-0.30103
+-1.7337952	amet odio	-0.30103
+-1.1848617	odio sollicitudin,	-0.30103
+-1.6258533	turpis egestas.	-0.30103
+-1.4674513	viverra elit,	-0.30103
+-1.6258533	nunc mattis	-0.30103
+
+\3-grams:
+-0.24282722	adipiscing elit. </s>
+-0.24282722	eget finibus. </s>
+-0.032163035	id aliquet. </s>
+-0.032163035	pharetra aliquet. </s>
+-0.24282722	interdum varius. </s>
+-0.25486192	malesuada nibh. </s>
+-0.24282722	convallis leo. </s>
+-0.24282722	tempus accumsan. </s>
+-0.24282722	quis semper. </s>
+-0.24282722	faucibus imperdiet. </s>
+-0.032163035	et lorem. </s>
+-0.032163035	egestas lorem. </s>
+-0.24282722	laoreet venenatis. </s>
+-0.21709466	a nunc. </s>
+-0.21709466	fringilla nunc. </s>
+-0.21709466	tincidunt nunc. </s>
+-0.032163035	at tincidunt. </s>
+-0.032163035	auctor tincidunt. </s>
+-0.24282722	a pulvinar. </s>
+-0.24282722	euismod malesuada. </s>
+-0.24282722	maximus convallis. </s>
+-0.24282722	metus ornare. </s>
+-0.24282722	eget erat. </s>
+-0.24282722	cursus orci. </s>
+-0.24282722	pharetra efficitur. </s>
+-0.032163035	euismod lacus. </s>
+-0.032163035	iaculis lacus. </s>
+-0.24282722	congue gravida. </s>
+-0.032163035	a ex. </s>
+-0.032163035	posuere ex. </s>
+-0.032163035	ut purus. </s>
+-0.032163035	sed purus. </s>
+-0.24282722	cursus fringilla. </s>
+-0.24282722	porta eleifend. </s>
+-0.24282722	rhoncus posuere. </s>
+-0.24282722	vestibulum fermentum. </s>
+-0.032163035	neque metus. </s>
+-0.032163035	suscipit metus. </s>
+-0.24282722	aliquam neque. </s>
+-0.24282722	orci massa. </s>
+-0.24282722	feugiat sapien. </s>
+-0.032163035	ultricies est. </s>
+-0.032163035	nec est. </s>
+-0.24282722	dignissim mi. </s>
+-0.032163035	eleifend id. </s>
+-0.032163035	dapibus id. </s>
+-0.24282722	malesuada sem. </s>
+-0.24282722	malesuada porta. </s>
+-0.24282722	in auctor. </s>
+-0.24282722	tincidunt pharetra. </s>
+-0.24282722	aliquam risus. </s>
+-0.24282722	lobortis dui. </s>
+-0.24282722	turpis egestas. </s>
+-0.27296278	<s> Lorem ipsum
+-0.2902661	porttitor, elit ipsum
+-0.27296278	Vestibulum ante ipsum
+-0.2908712	Lorem ipsum dolor
+-0.2697739	ipsum dolor sit
+-0.2891434	eu augue sit
+-0.2697739	nulla porttitor sit
+-0.2891434	venenatis risus sit
+-0.28694814	finibus neque sit
+-0.28259048	sollicitudin mi sit
+-0.2891434	in sapien sit
+-0.29634166	dolor sit amet,
+-0.27354428	sit amet, consectetur
+-0.27354428	amet, consectetur adipiscing
+-0.27354428	consectetur adipiscing elit.
+-0.2862813	condimentum nibh. Sed
+-1.1699318	<s> Sed scelerisque
+-0.57304704	<s> Pellentesque scelerisque
+-0.28647426	Sed scelerisque nisi
+-0.27335697	scelerisque nisi ac
+-0.2862813	Proin vehicula ac
+-0.035198703	nisi ac enim
+-0.035198703	vehicula ac enim
+-0.29609078	Vestibulum at enim
+-0.5815937	ac enim viverra
+-0.2928906	Sed vestibulum viverra
+-0.28647426	enim viverra dictum.
+-0.27354428	viverra dictum. Praesent
+-0.27354428	dictum. Praesent volutpat
+-0.27335697	Praesent volutpat pretium
+-0.2862813	<s> Suspendisse pretium
+-0.28587517	volutpat pretium tellus
+-0.29648888	tristique et tellus
+-0.27296278	libero lacinia tellus
+-0.28860393	pretium tellus eget
+-0.28860393	vestibulum congue eget
+-0.29080763	risus felis eget
+-0.2713654	<s> Nunc eget
+-0.2713654	sollicitudin diam, eget
+-0.2944211	tellus eget finibus.
+-0.7483611	<s> Vestibulum imperdiet
+-0.27354428	Vestibulum imperdiet magna
+-0.27354428	imperdiet magna dui,
+-1.1250445	<s> Sed et
+-0.26739755	magna dui, et
+-0.286659	congue augue et
+-0.2844762	orci luctus et
+-0.2844762	mollis turpis et
+-0.28014314	dictum mi et
+-0.28014314	erat, tristique et
+-0.26739755	tristique lectus, et
+-0.28014314	sem diam et
+-0.26739755	odio sollicitudin, et
+-0.296905	dui, et bibendum
+-0.27335697	nunc mattis bibendum
+-0.2862813	et bibendum massa
+-0.296905	Donec a massa
+-0.2862813	bibendum massa elementum
+-0.27335697	Ut accumsan elementum
+-0.28647426	massa elementum in.
+-0.27354428	elementum in. Proin
+-0.27335697	in. Proin vehicula
+-0.2928906	tellus, vel vehicula
+-0.57594305	ac enim id
+-0.28997472	leo, sodales id
+-0.7395421	<s> Aenean id
+-0.28340933	maximus, nisl id
+-0.27056894	venenatis urna, id
+-0.28340933	ultrices sagittis id
+-0.29511625	enim id aliquet.
+-0.2906763	molestie pharetra aliquet.
+-0.28694814	at enim at
+-0.7372055	<s> Vestibulum at
+-0.2697739	aliquam ex, at
+-0.2891434	fringilla felis at
+-0.28259048	sapien, sagittis at
+-0.2697739	lobortis quam, at
+-0.2697739	<s> Quisque at
+-0.2951323	enim at orci
+-0.28505164	in faucibus orci
+-0.28943422	Aliquam eu orci
+-0.29164216	Mauris aliquam orci
+-1.160613	<s> Sed vestibulum
+-0.29164216	at orci vestibulum
+-0.2721634	dui sed, vestibulum
+-0.29164216	ut sapien vestibulum
+-1.166835	<s> Sed congue
+-0.29247832	orci vestibulum congue
+-0.27296278	amet urna congue
+-0.28880307	congue eget ut
+-0.2911552	placerat ut ut
+-0.28095737	<s> Maecenas ut
+-0.5628016	<s> Etiam ut
+-0.28529862	molestie ultrices ut
+-0.28748557	nec lorem ut
+-0.28095737	dapibus placerat ut
+-0.28529862	porta nunc ut
+-0.26818824	a justo ut
+-0.29680398	eget ut arcu.
+-0.27335697	ut arcu. Maecenas
+-0.28647426	arcu. Maecenas hendrerit
+-0.27296278	Maecenas hendrerit sem
+-0.28587517	a convallis sem
+-0.27296278	in semper sem
+-0.28340933	mattis bibendum in
+-0.28777525	hendrerit sem in
+-0.27056894	ipsum primis in
+-0.27056894	malesuada neque, in
+-0.28340933	auctor diam in
+-0.7395421	<s> Fusce in
+-0.29531318	sem in interdum
+-0.27354428	in interdum varius.
+-1.160613	<s> Sed augue
+-0.28943422	Sed congue augue
+-0.29164216	commodo, pulvinar augue
+-0.28943422	Nam eu augue
+-0.29308653	Sed augue leo,
+-0.2951323	ex, at sodales
+-0.2721634	augue leo, sodales
+-0.7442533	<s> Cras sodales
+-0.28505164	massa, placerat sodales
+-0.29531318	sodales id dui
+-0.27354428	id dui sed,
+-0.2947018	nisl id condimentum
+-0.29247832	sed, vestibulum condimentum
+-0.27296278	lectus eros, condimentum
+-0.2906763	vestibulum condimentum nibh.
+-0.2928906	ullamcorper malesuada nibh.
+-0.2961905	nibh. Sed vitae
+-0.29247832	eleifend risus vitae
+-0.2902661	facilisis, turpis vitae
+-0.2906763	Sed vitae convallis
+-0.296905	elit, a convallis
+-0.28647426	vitae convallis leo.
+-0.29710275	augue et tempus
+-0.27354428	et tempus accumsan.
+-0.29247832	faucibus orci luctus
+-0.57226145	<s> Nam luctus
+-0.27296278	massa ultrices, luctus
+-0.2906763	Nam luctus consequat
+-0.27335697	sapien vel, consequat
+-0.28647426	luctus consequat mauris,
+-0.28885284	sagittis id a
+-0.2903216	ultrices ut a
+-0.26739755	consequat mauris, a
+-0.56124485	<s> Etiam a
+-0.7363907	<s> Donec a
+-0.28014314	facilisis lacus a
+-0.73027027	<s> Duis a
+-0.73027027	<s> Fusce a
+-0.26739755	ullamcorper velit a
+-0.26739755	viverra elit, a
+-0.29564503	lectus, et pulvinar
+-0.29564503	mauris, a pulvinar
+-0.28943422	lorem ac, pulvinar
+-0.2721634	orci commodo, pulvinar
+-0.29308653	a pulvinar nulla
+-0.27354428	pulvinar nulla porttitor
+-0.29634166	porttitor sit amet.
+-0.27335697	sit amet. Vivamus
+-0.29564503	sollicitudin, et rhoncus
+-0.29534724	nunc ut rhoncus
+-0.28505164	amet. Vivamus rhoncus
+-0.28943422	tincidunt, eu rhoncus
+-0.2928906	Vivamus rhoncus sed
+-0.27335697	metus leo sed
+-0.296905	turpis et arcu
+-0.2862813	rhoncus sed arcu
+-0.2862813	sed arcu quis
+-0.2928906	accumsan, lorem quis
+-0.28647426	arcu quis semper.
+-0.28587517	vel vehicula elit
+-0.29648888	Etiam a elit
+-0.27296278	condimentum porttitor, elit
+-0.2908712	a elit diam.
+-0.27335697	elit diam. Donec
+-0.28587517	lorem quis eleifend
+-0.2902661	vehicula elit eleifend
+-0.29247832	diam. Donec eleifend
+-0.29164216	at sodales risus
+-0.28943422	Donec eleifend risus
+-0.7442533	<s> Aenean risus
+-0.28505164	Sed venenatis risus
+-0.2902661	risus vitae est
+-0.57226145	<s> Ut est
+-0.2902661	pellentesque, ullamcorper est
+-0.29511625	primis in faucibus
+-0.2906763	vitae est faucibus
+-0.28647426	est faucibus imperdiet.
+-0.28647426	a massa ultrices,
+-0.2961905	Etiam ut neque
+-0.2902661	ultrices, luctus neque
+-0.29247832	Phasellus finibus neque
+-0.2902661	luctus neque ac,
+-0.2902661	finibus metus ac,
+-0.58512175	at lorem ac,
+-0.2906763	neque ac, egestas
+-0.27335697	risus arcu, egestas
+-0.296905	diam et lorem.
+-0.2862813	ac, egestas lorem.
+-1.1714101	<s> Sed rutrum
+-0.27354428	Sed rutrum laoreet
+-0.27354428	rutrum laoreet venenatis.
+-0.29308653	Aenean risus arcu,
+-0.7505754	<s> Donec vel
+-0.28505164	arcu, egestas vel
+-0.2721634	scelerisque ligula vel
+-0.2721634	eros tellus, vel
+-0.2928906	egestas vel lacus
+-0.27335697	maximus facilisis lacus
+-0.2902661	et tellus ut,
+-0.28587517	vel lacus ut,
+-0.29247832	non sapien ut,
+-0.29381105	diam, eget lobortis
+-0.2947018	Aenean id lobortis
+-0.2902661	lacus ut, lobortis
+-0.2906763	ut, lobortis fringilla
+-0.2862813	Duis feugiat fringilla
+-0.29648888	id a nunc.
+-0.28587517	lobortis fringilla nunc.
+-0.28587517	pretium, tincidunt nunc.
+-0.29247832	ac, pulvinar euismod
+-0.28587517	<s> Vivamus euismod
+-0.28587517	sollicitudin ex euismod
+-0.2906763	Vivamus euismod libero
+-0.8714094	<s> Phasellus libero
+-0.28647426	euismod libero lacinia
+-0.2862813	Suspendisse pretium auctor
+-0.2906763	lacinia tellus auctor
+-0.29609078	felis at tincidunt.
+-0.2862813	tellus auctor tincidunt.
+-0.2928906	ligula vel maximus
+-0.57304704	<s> Pellentesque maximus
+-0.28647426	Pellentesque maximus facilisis
+-0.29710275	lacus a pulvinar.
+-0.29247832	Cras sodales sollicitudin
+-0.29247832	Donec vel sollicitudin
+-0.7466282	<s> Integer sollicitudin
+-0.2906763	sodales sollicitudin ex
+-0.2928906	sodales, eros ex
+-0.2908712	ex euismod malesuada.
+-0.28647426	Pellentesque scelerisque ligula
+-0.28647426	vel maximus convallis.
+-0.7483611	<s> Integer mollis
+-0.29247832	et rhoncus turpis
+-0.27296278	Integer mollis turpis
+-0.27296278	Phasellus facilisis, turpis
+-0.28647426	et arcu tincidunt,
+-0.57226145	<s> Nam eu
+-0.27296278	arcu tincidunt, eu
+-0.7466282	<s> Aliquam eu
+-0.29247832	eu rhoncus metus
+-0.29247832	molestie, finibus metus
+-0.27296278	id pellentesque metus
+-0.2908712	rhoncus metus ornare.
+-0.7547438	<s> Donec maximus,
+-0.27335697	Donec maximus, nisl
+-0.9607477	sit amet nisl
+-0.2908712	id condimentum porttitor,
+-0.28943422	elit ipsum aliquam
+-0.29534724	Maecenas ut aliquam
+-0.28943422	metus ac, aliquam
+-0.2721634	<s> Mauris aliquam
+-0.29308653	ipsum aliquam ex,
+-0.29534724	lorem ut felis
+-0.29564503	Duis a felis
+-0.29164216	sodales risus felis
+-0.28505164	feugiat fringilla felis
+-0.2944211	felis eget erat.
+-0.5734206	<s> Ut accumsan
+-0.28647426	accumsan elementum odio,
+-0.29609078	quam, at ultricies
+-0.27335697	elementum odio, ultricies
+-0.2862813	odio, ultricies cursus
+-0.2862813	pulvinar nibh cursus
+-0.28647426	ultricies cursus orci.
+-0.29422462	Nunc eget feugiat
+-0.74780244	<s> Duis feugiat
+-0.7483611	<s> Vestibulum ante
+-0.2908712	ante ipsum primis
+-0.29648888	luctus et ultrices
+-0.58079255	amet nunc ultrices
+-0.28587517	eros molestie ultrices
+-0.2906763	et ultrices posuere
+-0.27335697	augue et, posuere
+-0.28647426	ultrices posuere cubilia
+-0.27354428	posuere cubilia curae;
+-0.27335697	cubilia curae; Suspendisse
+-0.28647426	curae; Suspendisse dictum
+-0.2906763	Integer sollicitudin mi
+-0.27335697	Suspendisse dictum mi
+-0.29648888	mi et pharetra
+-0.7466282	<s> Integer pharetra
+-0.28587517	Aenean molestie pharetra
+-0.2908712	et pharetra efficitur.
+-0.2902661	eros, condimentum non
+-0.7466282	<s> Cras non
+-0.29247832	a felis non
+-0.2908712	Cras non iaculis
+-0.2906763	pulvinar euismod lacus.
+-0.27335697	non iaculis lacus.
+-0.17160974	augue sit amet
+-0.17160974	risus sit amet
+-0.17160974	neque sit amet
+-0.17160974	mi sit amet
+-0.17160974	sapien sit amet
+-0.9616603	sit amet urna
+-0.2908712	urna congue gravida.
+-0.29308653	aliquam orci commodo,
+-0.29308653	pulvinar augue et,
+-0.296905	ut a ex.
+-0.2862813	et, posuere ex.
+-0.87215227	<s> Phasellus facilisis,
+-0.28943422	turpis vitae finibus
+-0.28943422	tellus ut, finibus
+-0.8666981	<s> Phasellus finibus
+-0.2721634	lorem molestie, finibus
+-0.29308653	vitae finibus hendrerit,
+-0.2906763	felis non tortor
+-0.27335697	finibus hendrerit, tortor
+-0.2928906	et pulvinar nibh
+-0.2862813	hendrerit, tortor nibh
+-1.1699318	<s> Sed venenatis
+-0.2862813	tortor nibh venenatis
+-0.28647426	nibh venenatis urna,
+-0.29531318	urna, id pellentesque
+-0.2908712	pellentesque metus leo
+-0.29660636	ut ut purus.
+-0.2862813	leo sed purus.
+-0.74780244	<s> Cras ornare
+-0.74780244	<s> Aliquam ornare
+-0.2862813	Aliquam ornare tristique
+-0.27335697	est erat, tristique
+-0.28647426	ornare tristique lectus,
+-0.28647426	nibh cursus fringilla.
+-0.28647426	Phasellus libero sapien,
+-0.2906763	nunc ultrices sagittis
+-0.27335697	libero sapien, sagittis
+-0.20609862	sagittis at lorem
+-0.20609862	Quisque at lorem
+-0.27296278	Phasellus accumsan, lorem
+-0.28587517	Fusce nec lorem
+-0.29710275	Sed et erat
+-0.27354428	et erat pellentesque,
+-0.2902661	sapien ut, ullamcorper
+-0.27296278	erat pellentesque, ullamcorper
+-0.27296278	<s> In ullamcorper
+-0.2908712	ullamcorper est pretium,
+-0.2928906	ut felis tincidunt
+-0.27335697	est pretium, tincidunt
+-0.2862813	amet nisl porta
+-0.27335697	<s> Nullam porta
+-0.28647426	nisl porta eleifend.
+-0.87215227	<s> Phasellus accumsan,
+-0.2908712	quis eleifend sodales,
+-1.160613	<s> Sed eros
+-0.29564503	velit a eros
+-0.28943422	Integer pharetra eros
+-0.2721634	eleifend sodales, eros
+-0.28505164	vel, consequat malesuada
+-0.28505164	eros ex malesuada
+-0.28943422	ut, ullamcorper malesuada
+-0.2721634	Aliquam commodo malesuada
+-0.29308653	ex malesuada neque,
+-0.29531318	neque, in semper
+-0.2906763	semper sem diam
+-0.2862813	pretium auctor diam
+-0.2906763	convallis sem dapibus
+-0.2862813	non tortor dapibus
+-0.2862813	tortor dapibus placerat
+-0.27335697	eros massa, placerat
+-0.67890054	sit amet nunc
+-0.2862813	Nullam porta nunc
+-0.29308653	ut rhoncus posuere.
+-0.29710275	Fusce a justo
+-0.29534724	justo ut sapien
+-0.2938614	Fusce in sapien
+-0.29164216	placerat sodales sapien
+-0.28943422	condimentum non sapien
+-0.29308653	sapien vestibulum fermentum.
+-0.2908712	Ut est erat,
+-0.29308653	ut, finibus suscipit
+-0.2906763	ut neque metus.
+-0.27335697	finibus suscipit metus.
+-0.7483611	<s> Duis lectus
+-0.27354428	Duis lectus eros,
+-0.29308653	ut aliquam neque.
+-0.74780244	<s> Aenean molestie
+-0.2928906	a eros molestie
+-0.29308653	eu orci massa.
+-0.28647426	eget feugiat sapien.
+-0.2908712	id lobortis quam,
+-0.2862813	at ultricies est.
+-0.2862813	in nec est.
+-0.28647426	Cras ornare dignissim
+-0.27354428	ornare dignissim mi.
+-0.29308653	pharetra eros tellus,
+-0.2906763	elit eleifend id.
+-0.2862813	sem dapibus id.
+-0.29308653	Sed eros massa,
+-0.29308653	sodales sapien vel,
+-0.29308653	consequat malesuada sem.
+-0.7483611	<s> Aliquam commodo
+-0.29308653	commodo malesuada porta.
+-0.29531318	diam in auctor.
+-0.29511625	bibendum in nec
+-0.74780244	<s> Fusce nec
+-0.28647426	felis tincidunt pharetra.
+-0.2908712	In ullamcorper velit
+-0.58631575	at lorem molestie,
+-0.29308653	ac, aliquam risus.
+-0.2908712	vel sollicitudin diam,
+-0.2908712	eget lobortis dui.
+-0.9616603	sit amet odio
+-0.27354428	amet odio sollicitudin,
+-0.2908712	rhoncus turpis egestas.
+-0.28647426	vestibulum viverra elit,
+-0.5819746	amet nunc mattis
+
+\end\
