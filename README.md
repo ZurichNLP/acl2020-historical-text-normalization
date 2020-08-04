@@ -28,6 +28,8 @@ source venv/bin/activate
 pip install -e .
 ```
 
+(For more details on the installation of the neural transducer, please see https://github.com/peter-makarov/il-reimplementation/tree/feature/acl2020-htn)
+
 ## Running the code
 
 An experiment is specified in a json file (e.g. `scripts/example_configs/trainer.de.500-1000.config.json`). Once you have configured the json, run the experiment with
