@@ -1,0 +1,94 @@
+{
+  "config": {
+    "candidates": {
+      "crudefilter_maxedit": 100000000,
+      "crudefilter_maxlen": 100000000,
+      "crudefilter_regex_candidate": "^[^1-9.,!?_\\-]+$",
+      "language": "de",
+      "meds_fns": [
+        "./data/ridges-dev.meds.tsv",
+	    "./data/ridges-train.meds.tsv",
+	    "./data/ridges-test.meds.tsv"
+      ]
+    },
+    "channel": {
+      "param_dicts": null,
+      "path2candidate_scores": null,
+      "path2neural_code": "./il-reimplementation",
+      "smart_init": true
+    },
+    "channel_pretrain_params": {
+      "batch_size": 1,
+      "decode_threads": 3,
+      "em_iterations": 1,
+      "epochs": 10,
+      "patience": 15,
+      "pick_loss": true,
+      "reload": true
+    },
+    "channel_update_params": {
+      "batch_size": 20,
+      "decode_threads": 3,
+      "dynet_seed": 1,
+      "em_iterations": 1,
+      "epochs": 5,
+      "patience": 15,
+      "pick_loss": true,
+      "reload": true,
+      "timeout": 9
+    },
+    "components": {
+      "candidate_generator": "CrudeMEDSGenerator",
+      "channel_model": "OffLine_NT_Channel",
+      "language_model": "BigramKenLM"
+    },
+    "data": {
+      "another_test": null,
+      "indomain_candidates_fn": null,
+      "max_seg_len": 50,
+      "supervised_dev": "./data/german-ridges.dev.txt",
+      "supervised_train": "./data/german-ridges.suptrain.txt",
+      "test": "./data/german-ridges.test.txt",
+      "unsupervised": "./data/german-ridges.unsuptrain.txt",
+      "unsupervised_data_cutoff": 100000000
+    },
+    "expinfo": {
+      "additional": "t.01+cp15+nc150+cpte50+closs",
+      "cand": "med3",
+      "channel": "neu",
+      "crp": "rid",
+      "devsize": 1000,
+      "dfold": 0,
+      "familyid": "cnnc100",
+      "lm": "nnword",
+      "lng": "de",
+      "seed": 1,
+      "semisup": "semi2",
+      "task": "trainer",
+      "tfold": 0,
+      "trainsize": 500,
+      "unorm": "NFC"
+    },
+    "language_model": {
+      "apra_fn": "./data/de_o2_20190510.klm",
+      "char_lm_backoff": null,
+      "lowercase": true,
+      "model": "./data/de.pt"
+    },
+    "paths": {
+      "result_path": "/tmp/test_results"
+    },
+    "train": {
+      "dummy_channel_init": false,
+      "epochs": 15,
+      "final_kbest": 4,
+      "inexact_estep_kbest": 4,
+      "kbest": 4,
+      "num_candidates": 150,
+      "posterior_tol": 0.01,
+      "train_threads": 2,
+      "verbose": true
+    }
+  },
+  "seed": 534848525
+}
