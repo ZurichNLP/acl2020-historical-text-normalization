@@ -1,6 +1,5 @@
 # acl2020-historical-text-normalization
-
-The code for the [ACL 2020 paper "Semi-supervised Contextual Historical Text Normalization" by Peter Makarov and Simon Clematide](https://www.aclweb.org/anthology/2020.acl-main.650).
+System predictions and code for the [ACL 2020 paper "Semi-supervised Contextual Historical Text Normalization" by Peter Makarov and Simon Clematide](https://www.aclweb.org/anthology/2020.acl-main.650).
 
 ## Contextualized transduction
 
@@ -39,6 +38,16 @@ An experiment is specified in a json file (e.g. `scripts/example_configs/trainer
 python scripts/run_trainer.py with scripts/example_configs/trainer.de.500-1000.config.json
 ```
 
-## Data and predictions
+## System predictions
+All our system predictions referred to in the paper can be found in the subdirectory `paper_results`. 
 
-Coming soon.
+Corpora acronyms:
+
+ - de-rid German Ridges
+ - en-ica English ICAMET (not available due to licencing restrictions)
+ - es-psa Spanish 
+ - hu-hgd Hungarian
+ - is-ice Icelandic
+ - pt-psa Portuguese
+ - sl-boh Slovene
+ - sv-gaw Swedish 
